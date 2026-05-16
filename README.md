@@ -14,6 +14,4 @@ A responsive news website build using React.js
 - React.js
 - JavaScript
 - Css and HTML
-## Screenshot
 
-![News Website](home.png)
